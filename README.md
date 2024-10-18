@@ -2,7 +2,8 @@
 
 ### React + TypeScript + Tailwind
 
-#### [Deployed app]([https://pathfinding-visualizer-nu.vercel.app/](https://pathfinding-visualizer-rafee.netlify.app/)
+#### [Deployed app](https://pathfinding-visualizer-rafee.netlify.app/)
+
 
 ![app-demo](./src/assets/pathfinding-visualizer.gif)
 
